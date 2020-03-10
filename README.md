@@ -23,7 +23,7 @@ and updates the other entries based on the models position value.
 **Install via composer**
 
 ```
-composer require pion/laravel-eloquent-position
+composer require elshobokshy/laravel-eloquent-position
 ```
 
 ## Usage

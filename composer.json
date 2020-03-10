@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pion\\Support\\Eloquent\\Position\\": "src/"
+      "Elshobokshy\\Support\\Eloquent\\Position\\": "src/"
     }
   },
   "license": "MIT",

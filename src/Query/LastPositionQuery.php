@@ -1,7 +1,7 @@
 <?php
-namespace Pion\Support\Eloquent\Position\Query;
+namespace Elshobokshy\Support\Eloquent\Position\Query;
 
-use Pion\Support\Eloquent\Position\Traits\PositionTrait;
+use Elshobokshy\Support\Eloquent\Position\Traits\PositionTrait;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 
@@ -11,7 +11,7 @@ use Illuminate\Database\Eloquent\Model;
  * Runs the query for last position and sets the model position if the position has
  * changed
  *
- * @package Pion\Support\Eloquent\Position\Query
+ * @package Elshobokshy\Support\Eloquent\Position\Query
  */
 class LastPositionQuery extends AbstractPositionQuery
 {

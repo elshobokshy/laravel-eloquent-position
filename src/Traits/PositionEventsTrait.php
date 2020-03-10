@@ -1,5 +1,5 @@
 <?php
-namespace Pion\Support\Eloquent\Position\Traits;
+namespace Elshobokshy\Support\Eloquent\Position\Traits;
 
 /**
  * Trait PositionEventsTrait

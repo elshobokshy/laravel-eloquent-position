@@ -1,13 +1,13 @@
 <?php
 
-namespace Pion\Support\Eloquent\Position\Traits;
+namespace Elshobokshy\Support\Eloquent\Position\Traits;
 
 /**
  * Trait BasePositionTrait
  *
  * Returns and sets the position
  *
- * @package Pion\Support\Eloquent\Position\Traits
+ * @package Elshobokshy\Support\Eloquent\Position\Traits
  */
 trait BasePositionTrait
 {

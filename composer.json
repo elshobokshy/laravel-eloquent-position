@@ -1,5 +1,5 @@
 {
-  "name": "pion/laravel-eloquent-position",
+  "name": "elshobokshy/laravel-eloquent-position",
   "description": "Position logic for Eloquent models with minimum setup",
   "require": {
     "laravel/framework": ">= 5.1"

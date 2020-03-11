@@ -2,10 +2,6 @@
 Position logic for Eloquent models with minimum setup. Before saving it will check if the position has changed
 and updates the other entries based on the models position value.
 
-[![Total Downloads](https://poser.pugx.org/pion/laravel-eloquent-position/downloads?format=flat)](https://packagist.org/packages/pion/laravel-eloquent-position)
-[![Latest Stable Version](https://poser.pugx.org/pion/laravel-eloquent-position/v/stable?format=flat)](https://packagist.org/packages/pion/laravel-eloquent-position)
-[![Latest Unstable Version](https://poser.pugx.org/pion/laravel-eloquent-position/v/unstable?format=flat)](https://packagist.org/packages/pion/laravel-eloquent-position)
-
 * [Installation](#installation)
 * [Usage](#usage)
     * [Migration example](#migration-example)
